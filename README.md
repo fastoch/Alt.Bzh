@@ -31,5 +31,22 @@ https://lucid.app/lucidchart/fb934b16-25b2-4bc2-9011-f784da1a94f6/edit?viewport_
 
 
 
-## MCD vs MLD
+## MCD vs MLD vs MPD
 
+### MCD
+
+Niveau le plus abstrait de la partie conception, comme une carte géographique générale, sans détails techniques.
+
+### MLD
+
+Niveau intermédiaire, plus détaillé, introduisant des éléments techniques (tables, clés), mais sans être encore un schéma physique
+
+Traduit le MCD en une structure plus détaillée et adaptée à une future implémentation informatique, sans être encore liée à une technologie spécifique.  
+Sert de pont entre la conception et la réalisation technique, facilitant la transition vers la création de la base de données réelle.  
+
+### MPD
+
+
+
+---
+EOF
