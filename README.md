@@ -27,7 +27,6 @@ https://lucid.app/lucidchart/fb934b16-25b2-4bc2-9011-f784da1a94f6/edit?viewport_
 - taille max configurable selon le type de fichier
 - date d'expiration des fichiers partagés
 - la gestion des accès se fait soit au niv user, soit au niveau d'un groupe
-- par défaut, un fichier privé est uniquement visible par la personne qui l'a partagé
 - les fichiers auxquels on a accès sont visibles comme sur un drive
 - rech par nom, par type, contenu indexé
 
