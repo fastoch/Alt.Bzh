@@ -28,7 +28,7 @@ https://www.figma.com/design/YKBlrVpG9iWXnO0737q536/Social-network?node-id=0-1&m
 - date d'expiration des fichiers partagés
 - la gestion des accès se fait soit au niv user, soit au niveau d'un groupe
 - les fichiers auxquels on a accès sont visibles comme sur un drive
-- rech par nom, par type, contenu indexé
+- recherche par nom, par type, contenu indexé
 
 ### Evènements
 
