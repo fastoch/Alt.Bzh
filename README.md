@@ -3,7 +3,8 @@
 - Serveur Discord: https://discord.gg/U2gWAf4p
 - Planning = AirTable, accessible depuis Outline wiki > Planning, filtrer > CDA
 - Replay = AirTable, accessible depuis Outline wiki > Lien des replay
-- ...
+- LucidChart pour la modélisation
+- Figma pour les mockups
 
 # S01 - Eval
 
@@ -30,10 +31,13 @@ https://www.figma.com/design/YKBlrVpG9iWXnO0737q536/Social-network?node-id=0-1&m
 - les fichiers auxquels on a accès sont visibles comme sur un drive
 - recherche par nom, par type, contenu indexé
 
+> [!IMPORTANT]  
+> L'indexation est le processus par lequel le contenu d’un document ou d’une page web est analysé afin d’en extraire les éléments significatifs (souvent des mots-clés).
+> Ces éléments serviront à décrire le document (metadata) et à le retrouver ultérieurement.
+
 ### Evènements
 
 - onglet dédié à création d'events
-- par défaut, personne ne participe à un event nouvellement créé
 - éléments obligatoires à la création: nom, description, type, lieu, date début évènement
 - limite du nb de participants configurable
 - pouvoir annuler sa participation
