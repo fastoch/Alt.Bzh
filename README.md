@@ -19,7 +19,7 @@ https://lucid.app/lucidchart/fb934b16-25b2-4bc2-9011-f784da1a94f6/edit?viewport_
 
 ## Mockups des différentes fonctionnalités 
 
-- seul le créateur d'un groupe peut ajouter des membres
+https://www.figma.com/design/YKBlrVpG9iWXnO0737q536/Social-network?node-id=0-1&m=dev&t=YvZ3hhXuB0MMXM41-1
 
 ### Partage de Ressources
 
